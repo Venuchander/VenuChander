@@ -1,6 +1,5 @@
 <h1 align="center">B VenuChander</h1>
-<h3 align="left">Email: </h3>
-venuchander11@gmail.com
+<h3 align="left">Email: </h3>venuchander11@gmail.com
 <h3 align="left">Follow me on:</h3>
 <p align="left">
 <a href="https://twitter.com/chandervenu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chandervenu" height="30" width="40" /></a>
