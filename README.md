@@ -1,5 +1,7 @@
-<h1 align="left">📛	B VenuChander</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venuchander&label=Profile%20views&color=0e75b6&style=flat" alt="venuchander" /> </p>
+
+<h1 align="left">📛	B VenuChander</h1>
+
 <img align="right" alt="Coding" width="400" src = "https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
 <h3 align="left">🧿 Social Platforms:</h3>
 <p align="left">
