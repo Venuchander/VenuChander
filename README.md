@@ -1,4 +1,4 @@
-<h1 align="center">Wassup I'm VenuChander</h1>
+<h1 align="center">Sup VenuChander here</h1>
 - 🌱 I’m currently learning **Python**
 
 <h3 align="left">Connect with me:</h3>
