@@ -7,12 +7,13 @@
 <a href="https://instagram.com/venuchander" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="venuchander" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UC1cV1Mu8cXOXBd3L3wMJS7Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="venuchander" height="30" width="40" /></a>
 <a href="[https://stackoverflow.com/users/20321068/venuchander](https://leetcode.com/VenuChander/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="venuchander" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/venuchaqmz1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="venuchaqmz1" height="30" width="40" /></a>
   
 <h3 align="left">Follow me on:</h3>
 
 
 
-<a href="https://auth.geeksforgeeks.org/user/venuchaqmz1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="venuchaqmz1" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
