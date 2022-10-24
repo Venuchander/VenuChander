@@ -1,5 +1,5 @@
 <h1 align="center">B VenuChander</h1>
-<h3 align="left">Email: </h3>venuchander11@gmail.com
+
 <h3 align="left">Follow me on:</h3>
 <p align="left">
 <a href="https://twitter.com/chandervenu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chandervenu" height="30" width="40" /></a>
@@ -9,7 +9,8 @@
 <a href="[https://stackoverflow.com/users/20321068/venuchander](https://leetcode.com/VenuChander/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="venuchander" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/venuchaqmz1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="venuchaqmz1" height="30" width="40" /></a>
   
-<h3 align="left">Follow me on:</h3>
+<h3 align="left">Email:</h3>
+venuchander11@gmail.com
 
 
 
