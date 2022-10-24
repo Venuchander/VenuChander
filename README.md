@@ -1,4 +1,4 @@
-<h1 align="center">B VenuChander</h1>
+<h1 align="center">📈	B VenuChander</h1>
 
 <h3 align="left">Social Platforms:</h3>
 <p align="left">
