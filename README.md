@@ -16,8 +16,6 @@
 href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer"> <img src= "https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" alt = "premierepro" width="30" height="25"/></a> <a
 href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="25"/></a> <a
 href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="25"/> </a> <a
-</p>
 
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=venuchander&show_icons=true&locale=en" alt="venuchander" /></p>
-
+</p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=venuchander&show_icons=true&locale=en" alt="venuchander" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=venuchander&" alt="venuchander" /></p>
