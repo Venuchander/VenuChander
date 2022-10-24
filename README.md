@@ -1,4 +1,5 @@
 <h1 align="left">📛	B VenuChander</h1>
+https://camo.githubusercontent.com/00134d100e1dd9b6aa1b90460ca023513d4f1bded6f2a6b09c61b4eac90e417d/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d52616768756e617468656e
 
 <h3 align="left">🧿 Social Platforms:</h3>
 <p align="left">
