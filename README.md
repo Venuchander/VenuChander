@@ -1,6 +1,6 @@
 <h1 align="center">B VenuChander</h1>
 
-<h3 align="left">Social Media:</h3>
+<h3 align="left">Social Platforms:</h3>
 <p align="left">
 <a href="https://instagram.com/venuchander" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="venuchander" width="30"  height="25"/></a>
 <a href="https://www.youtube.com/channel/UC1cV1Mu8cXOXBd3L3wMJS7Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="venuchander" width="30" height="25"/></a>
