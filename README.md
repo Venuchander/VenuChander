@@ -1,5 +1,4 @@
 <h1 align="center">B VenuChander</h1>
-I’m currently learning Python
 
 <h3 align="left">Follow me on:</h3>
 <p align="left">
