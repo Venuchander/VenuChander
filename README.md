@@ -1,8 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 
 <h1 align="left">📛	B VenuChander</h1>
-
-<img align="right" alt="Coding" width="400" src = "https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
 <h3 align="left">🧿 Social Platforms:</h3>
 <p align="left">
 <a href="https://instagram.com/venuchander" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="venuchander" width="30"  height="25"/></a>
@@ -19,5 +17,6 @@ href="https://www.adobe.com/products/premiere.html" target="_blank" rel="norefer
 href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="25"/></a> <a
 href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="25"/> </a> <a
 
+<img align="right" alt="Coding" width="400" src = "https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif"> <a
 </p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=venuchander&show_icons=true&locale=en" alt="venuchander" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=venuchander&" alt="venuchander" /></p>
