@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 
 <h1 align="left">📛	B VenuChander</h1>
-<img align="right" alt="Coding" height="200" width="150" src = "https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif"> <a
+<img align="right" alt="Coding" height="150" width="300" src = "https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif"> <a
 <h3 align="left">🧿 Social Platforms:</h3>
 <p align="left">
 <a href="https://instagram.com/venuchander" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="venuchander" width="30"  height="25"/></a>
