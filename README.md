@@ -1,5 +1,5 @@
 <h1 align="center">B VenuChander</h1>
-- 📫**venuchander11@gmail.com**
+<h3 align="left">venuchander11@gmail.com</h3>
 
 <h3 align="left">Follow me on:</h3>
 <p align="left">
