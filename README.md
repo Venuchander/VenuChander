@@ -10,7 +10,7 @@
 <a href="https://auth.geeksforgeeks.org/user/venuchaqmz1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="venuchaqmz1" width="30" height="25"/></a>
 <a href="https://stackoverflow.com/users/20321068/venuchander" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="venuchander" width="30" height="25"/></a> </p>
 
-<h3 align="left">Editing Tools:</h3>
+<h3 align="left">Tools:</h3>
 <p align="left"> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" alt="photoshop"  width="30" height="25"/></a> <a
 href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer"> <img src= "https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" alt = "premierepro" width="30" height="25"/></a> <a
 href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="25"/></a> <a
