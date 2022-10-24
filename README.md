@@ -1,4 +1,4 @@
-<h1 align="center">Sup VenuChander here</h1>
+<h1 align="center">B VenuChander</h1>
 I’m currently learning Python
 
 <h3 align="left">Connect with me:</h3>
