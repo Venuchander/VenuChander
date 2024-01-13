@@ -1,7 +1,6 @@
 <h1 align="left">👤 VENUCHANDER B</h1>
 <h3 align="left">🌏 Social Platforms:</h3>
 <p align="left">
-<a href="https://instagram.com/venuchander" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="venuchander" width="30"  height="25"/></a>
 <a href="https://www.reddit.com/user/VenuChander" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="VenuChander" width="30" height="25"/></a>
 <a href="https://discord.gg/BrJ8zCxT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="VenuChander" width="30" height="25"/></a>
 <a href="https://www.hackerrank.com/profile/venuchander11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Venuchander11" width="30" height="25"/></a>
